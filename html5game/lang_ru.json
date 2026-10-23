@@ -5,6 +5,11 @@
     "gml_Object_obj_task_Create_0/mice":"Мыши",
     "gml_Object_obj_task_Create_0/pond":"Пруд",
     "gml_Object_obj_task_Create_0/crumbs":"Крошки",
+    "gml_Object_obj_task_Create_0/catdash":"Кот-дэш",
+    "gml_Object_obj_task_Create_0/catdash_req":"Наберите 100 очков в миниигре Крошки что-бы разблокировать...",
+    "gml_Object_obj_task_Create_0/crumbs_req":"Словите 50 рыб в Пруду что-бы разблокировать...",
+    "gml_Object_obj_task_Create_0/pond_req":"Пройдите миниигру Мыши что-бы разблокировать...",
+    "gml_Object_obj_task_Draw_0/locked":" (Заблокировано)",
 
     "gml_Object_obj_food_Create_0_gml_Script_Food@gml_Object_obj_food_Create_0/pickle":"Огурец",
     "gml_Object_obj_food_Create_0_gml_Script_Food@gml_Object_obj_food_Create_0/apple":"Яблоко",
